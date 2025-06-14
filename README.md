@@ -11,6 +11,10 @@
 
 ## 👨‍💻 About Me
 
+Welcome to my web corner! I'm Gourab Kumar, a passionate data scientist dedicated to extracting meaningful insights from complex datasets. I specialize in transforming raw data into actionable strategies and firmly believe in the power of data to drive informed decision-making. Eager to apply my analytical skills in real-world scenarios, I invite you to join me on a data-driven journey of innovation.
+
+As a storyteller in the realm of data, I embark on a quest to reveal narratives within numbers, bridging the gap between data and decision-makers with a creative edge. Together, let's explore possibilities one dataset at a time. I'm also a problem solver, viewing the world through a data lens, armed with a solid foundation in data science. Whether optimizing processes, predicting trends, or identifying opportunities, I approach each challenge with analytical rigor and a determination to make a tangible impact.
+
 - 💼 Associate Data Scientist | 2.5+ years in Data & AI
 - 📌 Skilled in developing ML/NLP/GenAI systems using modern tools & frameworks
 - 🌐 Experienced in deploying scalable solutions with **FastAPI, LangChain**, and **LLMs**
@@ -18,6 +22,9 @@
 - 📚 Always learning and building around **LLMs**, **AI Agents**, and **Retrieval-Augmented Generation (RAG)**
 - 💬 Open to collaborations on data-centric or AI-powered applications
 - 📫 Reach me at: **gourabsingh09@gmail.com**
+
+### 🌟 Keywords That Define Me
+`Technology Enthusiast` • `Inquisitive` • `Ambitious` • `Persistent` • `Dedicated` • `Passionate` • `Hardworking`
 
 ---
 
@@ -39,6 +46,18 @@
 - ✅ FastAPI & Scalable ML Deployment
 - ✅ End-to-End ML/DS Project Lifecycle
 - ✅ Data Visualization & Insights with Power BI
+
+---
+
+## 📜 Courses & Certifications
+
+- 🎓 Certified Data Scientist – NASSCOM
+- 📘 Python for Data Science – NPTEL
+- 💡 Innovation & IT Management – IIM Bangalore
+- 🌐 Innovation & Start-up Policies – IILM
+- 🏫 Business Environment – IIS Jaipur
+- 🎓 B.Tech – MRSPTU
+- 💡 Deep Learning for Computer Vision
 
 ---
 
@@ -91,8 +110,6 @@
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-red?style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
-
-
 
 ---
 
