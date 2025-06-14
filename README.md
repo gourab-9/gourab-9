@@ -149,7 +149,7 @@ As a storyteller in the realm of data, I embark on a quest to reveal narratives 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gourab-kumar/)
 - 📧 Email: gourabsingh09@gmail.com
-- 🌍 [Portfolio](https://sites.google.com/view/gourabsingh-info/projects?authuser=0)
+- 🌍 [Portfolio](https://sites.google.com/view/gourabsingh-info/home?authuser=0)
 
 ---
 
