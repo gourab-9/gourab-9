@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/gourab-kumar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:gourabsingh09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://sites.google.com/view/gourabsingh-info/home?authuser=0"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge" /></a>
+  <a href="https://www.kaggle.com/gourabkumarsingh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Ergourab/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/gourab-9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
