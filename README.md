@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gourab-kumar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:gourabsingh09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://sites.google.com/view/gourabsingh-info/projects?authuser=0"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge" /></a>
+  <a href="https://sites.google.com/view/gourabsingh-info/home?authuser=0"><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge" /></a>
 </p>
 
 ---
